@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+data/bank_customers.csv
+*.pbix
+analyze_data.py
